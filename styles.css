@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.navbar a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.navbar a:last-child {
+    margin-right: 0;
+}
+.content {
+    margin: 20px;
+}
+h1, h2 {
+    margin-bottom: 10px;
+}
+p {
+    margin-bottom: 20px;
+}
