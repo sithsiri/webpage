@@ -35,7 +35,7 @@ export default function Projects() {
                         </p>
                     </a>
 
-                    <a href="https://sithsiri.github.io/romajify/" className={styles.card}>
+                    <a href="https://sithsiri.github.io/learn-morse-code/" className={styles.card}>
                         <h3>Learn Morse Code &rarr;</h3>
                         <p>
                             A page I made a long time ago to help teach Morse code. Written entirely in HTML5
